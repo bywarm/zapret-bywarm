@@ -7,6 +7,12 @@
 
 > Удобный графический интерфейс для инструмента Zapret, позволяющий легко обходить интернет-цензуру без работы с командной строкой.
 
+<div align="center">
+  <img src="https://getwarm.rf.gd/asset/imgs/zapret-bywarm.png" alt="Скриншот интерфейса ZAPRET bywarm" width="800"/>
+  <br>
+  <sup>Главный интерфейс программы (BETA)</sup>
+</div>
+
 ---
 
 ## ✨ Особенности
