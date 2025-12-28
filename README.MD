@@ -4,7 +4,6 @@
 
 [![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat&logo=windows)](https://github.com/bywarm/zapret-bywarm/releases/latest)
 [![.NET](https://img.shields.io/badge/.NET-4.7.2%2B-512BD4?style=flat&logo=dotnet)](https://dotnet.microsoft.com/download/dotnet-framework)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 
 > Удобный графический интерфейс для инструмента Zapret, позволяющий легко обходить интернет-цензуру без работы с командной строкой.
 
