@@ -1,0 +1,10 @@
+D:\proj\Zapret\Zapret\bin\Debug\ZapretBywarm.exe.config
+D:\proj\Zapret\Zapret\bin\Debug\ZapretBywarm.exe
+D:\proj\Zapret\Zapret\bin\Debug\ZapretBywarm.pdb
+D:\proj\Zapret\Zapret\obj\Debug\ZapretBywarm.csproj.AssemblyReference.cache
+D:\proj\Zapret\Zapret\obj\Debug\Zapret_ByWarm.Main.resources
+D:\proj\Zapret\Zapret\obj\Debug\Zapret.Properties.Resources.resources
+D:\proj\Zapret\Zapret\obj\Debug\ZapretBywarm.csproj.GenerateResource.cache
+D:\proj\Zapret\Zapret\obj\Debug\ZapretBywarm.csproj.CoreCompileInputs.cache
+D:\proj\Zapret\Zapret\obj\Debug\ZapretBywarm.exe
+D:\proj\Zapret\Zapret\obj\Debug\ZapretBywarm.pdb
